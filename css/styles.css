@@ -238,7 +238,7 @@ header {
   width: 270px;
   height: 120px;
   background-color: var(--third-bg-color);
-  background-image: url(../images/icons/antenna.svg);
+  background-image: url(../images/sprite.svg#icon-antenna);
   background-repeat: no-repeat;
   background-position: center;
   margin-bottom: 30px;
@@ -249,7 +249,7 @@ header {
   width: 270px;
   height: 120px;
   background-color: var(--third-bg-color);
-  background-image: url(../images/icons/clock.svg);
+  background-image: url(../images/sprite.svg#icon-astronaut);
   background-repeat: no-repeat;
   background-position: center;
   margin-bottom: 30px;
@@ -260,7 +260,7 @@ header {
   width: 270px;
   height: 120px;
   background-color: var(--third-bg-color);
-  background-image: url(../images/icons/diagram.svg);
+  background-image: url(../images/sprite.svg#icon-clock);
   background-repeat: no-repeat;
   background-position: center;
   margin-bottom: 30px;
@@ -271,7 +271,7 @@ header {
   width: 270px;
   height: 120px;
   background-color: var(--third-bg-color);
-  background-image: url(../images/icons/astronaut.svg);
+  background-image: url(../images/sprite.svg#icon-diagram);
   background-repeat: no-repeat;
   background-position: center;
   margin-bottom: 30px;
