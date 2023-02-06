@@ -414,12 +414,17 @@ header {
   justify-content: center;
   margin-bottom: 50px;
 }
+/**
+  |============================
+  | 
+  |============================
+*/
 .projects.list {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
 }
-.projects .title {
+svgq.projects .title {
   margin-bottom: 4px;
   color: var(--primary-text-color);
   font-weight: 700;
